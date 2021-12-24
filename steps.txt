@@ -1,0 +1,12 @@
+Follow the "Getting Started" series at
+
+https://learnopengl.com/Getting-started/OpenGL
+
+
+[ ] Draw a Rectangle
+[ ] Move the Rectangle
+[ ] Draw a Ball
+[ ] Move the ball on it's own
+[ ] Collide with wall 
+[ ] Collide with paddle
+[ ] Create a score game
