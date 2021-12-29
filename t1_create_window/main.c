@@ -1,3 +1,5 @@
+// https://learnopengl.com/Getting-started/Hello-Window
+
 #include <glad/glad.h>
 #include "GLFW/glfw3.h"
 

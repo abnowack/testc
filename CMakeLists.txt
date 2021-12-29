@@ -11,3 +11,7 @@ set(GLAD_SOURCE ${PROJECT_SOURCE_DIR}/glad/src/glad.c)
 
 add_subdirectory(t1_create_window)
 add_subdirectory(t2_triangle)
+add_subdirectory(t3_shapes)
+add_subdirectory(t4_index_buffer)
+add_subdirectory(t5_batch_render)
+add_subdirectory(t6_dynamic_render)
